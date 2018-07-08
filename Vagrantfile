@@ -7,8 +7,8 @@ required_plugins.each do |plugin|
 end
 
 domains = {
-  frontend: 'y2aa-frontend.test',
-  backend:  'y2aa-backend.test'
+  frontend: 'tester.loc',
+  backend:  'tester.loc/admin'
 }
 
 config = {
